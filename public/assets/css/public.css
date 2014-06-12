@@ -1,0 +1,143 @@
+/*----------------------------------------------------------------
+    Widgets
+----------------------------------------------------------------*/
+
+.widget h4 {
+	text-transform: uppercase;
+	font-size: 0.875rem;
+}
+
+/*----------------------------------------------------------------
+    Social widgets
+----------------------------------------------------------------*/
+
+.meta-social ul li,
+ul.meta-social li {
+	padding: 0 0.278em;
+	text-align: center;
+}
+
+.meta-social ul li a,
+ul.meta-social li a {
+	display: inline-block;
+	width: 2.667em;
+	height: 2.667em;
+	border: 1px solid;
+	border-color: rgba(0, 0, 0, 0.1);
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	color: rgba(0, 0, 0, 0.18);
+}
+
+.text-light .meta-social ul li a,
+.text-light ul.meta-social li a {
+	border-color: rgba(255, 255, 255, 0.5);
+	color: rgba(255, 255, 255, 0.5);
+}
+
+.meta-social ul li a i,
+ul.meta-social li a i {
+	line-height: 2em;
+}
+
+.meta-social ul li a:hover,
+ul.meta-social li a:hover {
+	color: #fff;
+}
+
+.meta-social ul li a.dribbble-share:hover,
+ul.meta-social li a.dribbble-share:hover {
+	border-color: #ea4c89;
+	background-color: #ea4c89;
+}
+
+.meta-social ul li a.facebook-share:hover,
+ul.meta-social li a.facebook-share:hover {
+	border-color: #3b5998;
+	background-color: #3b5998;
+}
+
+.meta-social ul li a.flickr-share:hover,
+ul.meta-social li a.flickr-share:hover {
+	border-color: #0063dc;
+	background-color: #0063dc;
+}
+
+.meta-social ul li a.github-share:hover,
+ul.meta-social li a.github-share:hover {
+	border-color: #171515;
+	background-color: #171515;
+}
+
+.meta-social ul li a.gplus-share:hover,
+ul.meta-social li a.gplus-share:hover,
+.meta-social ul li a.googleplus-share:hover,
+ul.meta-social li a.googleplus-share:hover  {
+	border-color: #dd4b39;
+	background-color: #dd4b39;
+}
+
+.meta-social ul li a.instagram-share:hover,
+ul.meta-social li a.instagram-share:hover {
+	border-color: #3f729b;
+	background-color: #3f729b;
+}
+
+.meta-social ul li a.linkedin-share:hover,
+ul.meta-social li a.linkedin-share:hover {
+	border-color: #0e76a8;
+	background-color: #0e76a8;
+}
+
+.meta-social ul li a.pinterest-share:hover,
+ul.meta-social li a.pinterest-share:hover {
+	border-color: #c8232c;
+	background-color: #c8232c;
+}
+
+.meta-social ul li a.skype-share:hover,
+ul.meta-social li a.skype-share:hover {
+	border-color: #00aff0;
+	background-color: #00aff0;
+}
+
+.meta-social ul li a.twitter-share:hover,
+ul.meta-social li a.twitter-share:hover {
+	border-color: #00acee;
+	background-color: #00acee;
+}
+
+.meta-social ul li a.vimeo-share:hover,
+ul.meta-social li a.vimeo-share:hover {
+	border-color: #44bbff;
+	background-color: #44bbff;
+}
+
+.meta-social ul li a.youtube-share:hover,
+ul.meta-social li a.youtube-share:hover {
+	border-color: #c4302b;
+	background-color: #c4302b;
+}
+
+footer .meta-social ul li {
+	padding-right: 0.5em;
+	padding-left: 0;
+}
+
+.widget.meta-social ul li a i {
+	vertical-align: -15%;
+}
+
+.fa-twitter:before{content:"\f099"}
+.fa-facebook:before{content:"\f09a"}
+.fa-googleplus:before{content:"\f0d5"}
+.fa-linkedin-square:before{content:"\f08c"}
+.fa-pinterest:before{content:"\f0d2"}
+.fa-dribbble:before{content:"\f17d"}
+.fa-flickr:before{content:"\f16e"}
+.fa-github:before{content:"\f09b"}
+.fa-instagram:before{content:"\f16d"}
+.fa-vimeo-square:before{content:"\f194"}
+.fa-vimeo:before{content:"\f194"}
+.fa-youtube:before{content:"\f167"}

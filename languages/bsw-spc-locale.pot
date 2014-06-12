@@ -1,0 +1,126 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bsw-simple-profile-contacts 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-12 03:55-0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/bsw-simple-profile-contacts-admin.php:143
+msgid "Profile Contacts Settings"
+msgstr ""
+
+#: admin/bsw-simple-profile-contacts-admin.php:144
+msgid "Profile Contacts"
+msgstr ""
+
+#: admin/bsw-simple-profile-contacts-admin.php:160
+msgid "Social Media"
+msgstr ""
+
+#: admin/bsw-simple-profile-contacts-admin.php:203
+msgid "Select the social media accounts to display on user profile pages"
+msgstr ""
+
+#: admin/bsw-simple-profile-contacts-admin.php:222
+msgid "Settings"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:273
+msgid "Twitter"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:274
+msgid "Twitter Username (without @)"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:278
+msgid "Facebook"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:279
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:283
+msgid "Google+"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:284
+msgid "Google+ URL"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:288
+msgid "LinkedIn"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:289
+msgid "LinkedIn Public Profile URL"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:293
+msgid "Pinterest"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:294
+msgid "Pinterest Username"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:298
+msgid "Dribbble"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:299
+msgid "Dribbble Username"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:303
+msgid "Flickr"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:304
+msgid "Flickr Profile URL"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:308
+msgid "GitHub"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:309
+msgid "GitHub Username"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:313
+msgid "Instagram"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:314
+msgid "Instagram Username"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:318
+msgid "Vimeo"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:319
+msgid "Vimeo Username"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:323
+msgid "Youtube"
+msgstr ""
+
+#: public/bsw-simple-profile-contacts.php:324
+msgid "Youtube Username"
+msgstr ""

@@ -1,0 +1,33 @@
+{
+  "name": "bsw-simple-profile-contacts",
+  "version": "0.1.0",
+  "author": {
+    "name": "Brian Watson",
+    "email": "bswatson@gmail.com",
+    "url": "http://bsw.io"
+  },
+  "licenses": [
+    {
+      "type": "GPLv2+",
+      "url": "http://www.gnu.org/licenses/gpl-2.0.html"
+    }
+  ],
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-checktextdomain": "^0.1.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-po2mo": "^0.1.0",
+    "grunt-pot": "~0.1.2",
+    "grunt-wp-readme-to-markdown": "~0.6.0"
+  },
+  "keywords": []
+}
