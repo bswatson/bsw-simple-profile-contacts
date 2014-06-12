@@ -15,7 +15,9 @@ Simple Profile Contacts provides additional fields in author profiles to enter a
 
 Administrators have the ability to set available fields from the options menu.
 
-A custom short code and widget are also provided for easy content entry on pages and posts.
+A custom short code is provided for easy content entry on pages and posts.
+
+A custom widget will be added in a future release
 
 ## Installation ##
 
