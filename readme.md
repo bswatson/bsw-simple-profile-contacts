@@ -1,6 +1,6 @@
 # Simple Profile Contacts #
 * Contributors: [bswatson](http://bsw.io/)
-* Tags: posts
+* Tags: posts, users
 * Requires at least: 3.9.0
 * Tested up to: 3.9.1
 * Stable tag: 0.1.0
@@ -33,6 +33,22 @@ A custom widget will be added in a future release
 1. Extract `bsw-simple-profile-contacts.zip` to your computer
 2. Upload the `bsw-simple-profile-contacts` directory to your `wp-content/plugins` directory
 3. Activate the plugin on the WordPress Plugins Dashboard
+
+## Usage ##
+
+### Setup ###
+
+1. Navigate to Settings -> Profile Contacts
+2. Select which contact options should be displayed on user profile pages
+
+### Entry ###
+
+1. Navigate to Users -> Your Profile
+2. Update entries under Contact Info
+
+### Shortcode ###
+
+[bsw_simple_profile_contacts]
 
 ## License ##
 
