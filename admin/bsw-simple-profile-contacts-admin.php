@@ -187,7 +187,7 @@ if(!class_exists('BSW_SimpleProfileContacts_Admin')) {
 		 */
 		public function display_plugin_admin_page() {
 			if( !current_user_can( 'manage_options' ) ) {
-				wp_die( 'You do not have suggicient permissions to access this page.' );
+				wp_die( 'You do not have sufficient permissions to access this page.' );
 			}
 			
 			include_once( 'views/admin.php' );
